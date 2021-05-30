@@ -1,0 +1,2 @@
+Target_Genome,Genome_Name,Target_Name,Range,Offtarget_Folder,Pair_Dist
+./SpCas9_V2.fa,pIP_spCas9_v2,test1,"[3508,7611]",./genomes/offtargets/,"62"
